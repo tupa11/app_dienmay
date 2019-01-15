@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'new' => 'Thông tin thành viên',
+    'index' => 'Danh sách thành viên',
+    'edit' => 'Sửa thông tin thành viên',
+    'title' => 'Danh sách thành viên',
+    'active' => 'Đang hoạt động',
+    'name' => 'Tên',
+    'username' => 'Tài khoản',
+    'group' => 'Nhóm',
+    'avatar' => 'Ảnh đại diện',
+    'info' => 'Thông tin',
+    'id' => 'Mã',
+    'phone' => 'Số điện thoại',
+    'gender' => 'Giới tính',
+    'address' => 'Địa chỉ',
+    'last_login' => 'Đăng nhập lần cuối',
+    'area' => 'Khu vực',
+    'change_password' => 'Thay đổi mật khẩu',
+    'password' => 'Mật khẩu',
+    'password_confirmation' => 'Nhập lại mật khẩu',
+    'dateofbirth' => 'Ngày sinh',
+    'level' => 'Cấp',
+    'email' => 'Email',
+    'admin_manager' => 'Quản lý',
+];
